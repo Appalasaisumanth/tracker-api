@@ -1,2 +1,10 @@
+<<<<<<< HEAD
 node_modules
 .env
+=======
+dist
+node_modules
+.env
+public/*.js
+public/*.js.map
+>>>>>>> 658cac6 (First commit)
